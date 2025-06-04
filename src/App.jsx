@@ -11,7 +11,7 @@ import CriarUsuario from './pages/CriarUsuario';
 import Usuarios from './pages/Usuarios';
 import Ranking from './pages/Ranking';
 
-const GOOGLE_SHEETS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwgeZteouyVWzrCvgHHQttx-5Bekgs_k-5EguO9Sn2p-XFrivFg9S7_gGKLdoDfCa08/exec';
+const GOOGLE_SHEETS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxueF8pDseB_ypxctET-IqgUQijcGXyFoOSJb-0cVfMJFDbyht8qHVnEYdVAK-pt-aWzQ/exec';
 
 const App = () => {
   const navigate = useNavigate();
